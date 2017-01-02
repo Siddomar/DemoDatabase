@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <!--Login & Register Page Validation-->
+    <string name="nameerror">Enter valid name</string>
+    <string name="password_error">Enter valid password</string>
+    <string name="name_email_error">Enter valid email or username</string>
+    <string name="passworderror">Choose another password</string>
+    <string name="emailerror">Enter valid email</string>
+    <string name="password_note"><i>Password must be between 4 and 8 digits long and include at least one numeric digit.</i></string>
+    <!-- End Login & Register Page Validation-->
+
+    <!--Login & Register Page-->
+    <string name="tVLI">SIGN IN</string>
+    <string name="tVReg">REGISTER</string>
+    <string name="btnL">Login</string>
+    <string name="btnReg">SIGN UP</string>
+    <string name="btn_signup_fb">Facebook</string>
+    <string name="btn_signup_google">Google</string>
+    <string name="tvSU_social">Or sign in with</string>
+    <string name="hint_login_email">\tEMAIL ID OR USERNAME</string>
+    <string name="hint_login_pwd">\tPASSWORD</string>
+    <string name="hint_signup_name">\tNAME</string>
+    <string name="hint_signup_email">\tEMAIL ID</string>
+    <string name="hint_signup_pwd">\tPASSWORD</string>
+    <string name="tvSUH">No account yet? Create one</string>
+    <!--End Login & Register Page-->
+
+
+</resources>
